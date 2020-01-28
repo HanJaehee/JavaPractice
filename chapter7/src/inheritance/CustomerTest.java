@@ -1,5 +1,7 @@
 package inheritance;
 
+import polymorphism.VIPCustomer;
+
 public class CustomerTest {
 
 	public static void main(String[] args) {

@@ -1,5 +1,8 @@
 package inheritance;
 
+import polymorphism.Customer;
+import polymorphism.VIPCustomer;
+
 public class OverrideingTest {
 
 	public static void main(String[] args) {
